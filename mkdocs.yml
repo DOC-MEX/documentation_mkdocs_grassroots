@@ -1,0 +1,12 @@
+site_name: Grassroots
+
+theme:
+  name: material
+
+plugins:
+  - mkdocstrings
+
+nav:
+  - Grassroots: index.md
+  - Services: services.md 
+  - Contact us : contacts.md
